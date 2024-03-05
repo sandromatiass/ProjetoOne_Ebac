@@ -8,7 +8,7 @@ O curso oferecido pela EBAC proporcionou uma experiência prática e imersiva, p
 
 O projeto Game Shop consiste em uma loja fictícia de jogos, onde os usuários podem navegar por diferentes categorias de jogos e visualizar informações sobre cada um deles. A interface é intuitiva e amigável, proporcionando uma experiência de compra agradável.
 
-![Game Shop](https://link_para_sua_imagem.com)
+<img src="./images/projectone.JPG" alt="Imagem Project">
 
 ## Visualizando o Projeto
 
